@@ -1,0 +1,22 @@
+{
+  "name": "coopmagic",
+  "version": "1.0.0",
+  "description": "Logiciel de gestion de cooperative",
+  "main": "App/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoiPancakes/CoopMagic.git"
+  },
+  "author": "Julien Vermorel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoiPancakes/CoopMagic/issues"
+  },
+  "homepage": "https://github.com/RoiPancakes/CoopMagic#readme",
+  "devDependencies": {
+    "electron": "^2.0.9"
+  }
+}
