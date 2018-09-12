@@ -1,0 +1,2 @@
+#On ignore les dépendances, elles sont définis dans le manifeste
+/node_modules/
